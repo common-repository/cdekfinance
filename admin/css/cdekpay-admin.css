@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.cdekpay_reference img {
+    margin: 15px 0;
+    border: 2px solid #fff;
+    max-width: 700px;
+    display: block;
+}
+.cdekpay_reference .cdekpay_img_medium {
+    width: 450px;
+}
+
+.cdekpay_reference .cdekpay_img_small {
+    width: 250px;
+}
+

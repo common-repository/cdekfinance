@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Home"
+msgstr "Главная страница"
+
+msgid "Reference"
+msgstr "Справка"
+
+msgid "CdekPay Settings"
+msgstr "CdekPay - Настройки"
+
+msgid "CdekPay Reference"
+msgstr "CdekPay - Справка"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Login"
+msgstr "Логин"
+
+msgid "Merchant login"
+msgstr "Логин учетной записи магазина"
+
+msgid "Secret key"
+msgstr "Пароль для реальных платежей"
+
+msgid "Mode test"
+msgstr "Тестовый режим платежей"
+
+msgid "Secret key test"
+msgstr "Пароль для тестовых платежей"
+
+msgid "Test accounts"
+msgstr "Аккаунты для тестовых платежей"
+
+msgid "It is obligatory to install plugin "
+msgstr ""
+"Для работы плагина CdekPay требуется, чтобы был установлен и активирован "
+"плагин "
+
+msgid "Go back"
+msgstr "Вернуться"
+
+msgid "Ones an hour"
+msgstr "Раз в 1 час"
+
+msgid "Order return"
+msgstr "Возврат заказа"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "On/Off"
+msgstr "Включить/Выключить"
+
+msgid "Set checkbox for payment method activation"
+msgstr "Установите галочку для активации платежного метода"
+
+msgid "Turn on payment CDEKPAY"
+msgstr "Включить платежный метод CDEK PAY"
+
+msgid "Payment by card or QR-code in the system of quick payments"
+msgstr "Оплата банковской картой или по QR-коду в Системе Быстрых Платежей"
+
+msgid ""
+"The title of the payment method that the buyer will see when placing an "
+"order."
+msgstr ""
+"Заголовок платежного метода который увидит покупатель при оформлении "
+"заказа."
+
+msgid "The description of the payment method that the buyer will see"
+msgstr "Описание платежного метода, которое увидит покупатель"
+
+msgid "Payment by bank card or via QR code in the Fast Payments System."
+msgstr "Оплата банковской картой или по QR-коду в Системе Быстрых Платежей."
+
+msgid "Private  https://secure.cdekfin.ru -> Settings -> Edit Shop -> Field"
+msgstr ""
+"Личный кабинет https://secure.cdekfin.ru -> Настройки -> Редактировать "
+"магазин -> Поле 'Логин'"
+
+msgid ""
+"Private https://secure.cdekfin.ru -> Integration -> Settings API -> Field "
+"Secret Key"
+msgstr ""
+"Личный кабинет https://secure.cdekfin.ru -> Интеграция -> Настройки API -"
+"> Поле 'Secret Key'"
+
+msgid ""
+"Private https://secure.cdekfin.ru -> Integration -> Settings API -> Field "
+"Test Secret Key"
+msgstr ""
+"Личный кабинет https://secure.cdekfin.ru -> Интеграция -> Настройки API -"
+"> Поле 'Test Secret Key'"
+
+msgid "Test payment account"
+msgstr "Аккаунты для тестовых платежей"
+
+msgid "authorized user email"
+msgstr ""
+"<e-mail> пользователя, под которым была авторизация в панель "
+"администратора сайта"
+
+msgid "Test mode"
+msgstr "Тестовый режим платежей (Вкл/Выкл)"
+
+msgid "Turn on Test mode"
+msgstr "Включить Тестовый режим платежей"
+
+msgid "For Test mode"
+msgstr ""
+"Для включения тестового режима платежей и оплаты заказа в тестовой валюте "
+"(TST)"
+
+msgid "URL for webhook"
+msgstr "URL для оповещения о платеже"
+
+msgid "Private https://secure.cdekfin.ru -> Integration -> Settings API"
+msgstr ""
+"Личный кабинет https://secure.cdekfin.ru -> Интеграция -> Настройки API"
+
+msgid "Test emails for testing"
+msgstr ""
+"Проверьте электронные адреса, указанные для тестирования в настройках "
+"модуля"
+
+msgid "Payment link"
+msgstr "Платежная ссылка"
+
+msgid "Got payment"
+msgstr "Получена оплата CDEK PAY"
+
+msgid "Initiated refund of payment CDEK PAY."
+msgstr "Инициирован возврат платежа CDEK PAY."
+
+msgid "Refund successfully completed"
+msgstr "Возврат платежа успешно проведен CDEK PAY"
+
+msgid "Status not paid"
+msgstr "Статус оплаты: Не оплачен"
+
+msgid "Error Ex01! Please refer to shop admin!"
+msgstr "Error Ex01! Обратитесь к администратору магазина!"
+
+msgid "Payment completed with errors. please repeat"
+msgstr ""
+"Оплата на стороне платежной системы CDEK PAY завершилась с ошибкой. "
+"Попробуйте повторить оплату"
+
+msgid "Проверить статус платежа"
+msgstr "Проверить статус платежа"
+
+msgid "Paid"
+msgstr "Оплачен"
+
+msgid "not Paid"
+msgstr "не оплачен"
+
+msgid "pay status"
+msgstr "статус оплаты"
+
+msgid "Refund (%s)"
+msgstr "Возврат (%s)"
+
+msgid "Refunds (%s)"
+msgstr "Возвраты (%s)"
+
+msgid "Refund requested for sum %s"
+msgstr "Запрошен возврат на сумму %s"
+
+msgid "Refunding not accepted. Check sums"
+msgstr "Возврат невозможен. Проверьте сумму к возврату"
+
+msgid "Product price(%s) or quantity(%s) is not correct."
+msgstr "Неверная стоимость или количество товара."
+
+msgid "Delivery"
+msgstr "Доставка"

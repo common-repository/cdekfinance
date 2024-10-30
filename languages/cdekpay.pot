@@ -1,0 +1,156 @@
+msgid "Settings"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Reference"
+msgstr ""
+
+msgid "CdekPay Settings"
+msgstr ""
+
+msgid "CdekPay Reference"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Merchant login"
+msgstr ""
+
+msgid "Secret key"
+msgstr ""
+
+msgid "Mode test"
+msgstr ""
+
+msgid "Secret key test"
+msgstr ""
+
+msgid "Test accounts"
+msgstr ""
+
+msgid "It is obligatory to install plugin "
+msgstr ""
+
+msgid "Go back"
+msgstr ""
+
+msgid "Ones an hour"
+msgstr ""
+
+msgid "Order return"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "On/Off"
+msgstr ""
+
+msgid "Set checkbox for payment method activation"
+msgstr ""
+
+msgid "Turn on payment CDEKPAY"
+msgstr ""
+
+msgid "Payment by card or QR-code in the system of quick payments | %s"
+msgstr ""
+
+msgid "The title of the payment method that the buyer will see when placing an order."
+msgstr ""
+
+msgid "The description of the payment method that the buyer will see"
+msgstr ""
+
+msgid "Payment by bank card or via QR code in the Fast Payments System."
+msgstr ""
+
+msgid "Private  https://secure.cdekfin.ru -> Settings -> Edit Shop -> Field"
+msgstr ""
+
+msgid "Private https://secure.cdekfin.ru -> Integration -> Settings API -> Field Secret Key"
+msgstr ""
+
+msgid "Private https://secure.cdekfin.ru -> Integration -> Settings API -> Field Test Secret Key"
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid "authorized user email"
+msgstr ""
+
+msgid "Test mode"
+msgstr ""
+
+msgid "Turn on Test mode"
+msgstr ""
+
+msgid "For Test mode"
+msgstr ""
+
+msgid "URL for webhook"
+msgstr ""
+
+msgid "Private https://secure.cdekfin.ru -> Integration -> Settings API"
+msgstr ""
+
+msgid "Test emails for testing"
+msgstr ""
+
+msgid "Payment link"
+msgstr ""
+
+msgid "Got payment"
+msgstr ""
+
+msgid "Initiated refund of payment CDEK PAY."
+msgstr ""
+
+msgid "Refund successfully completed"
+msgstr ""
+
+msgid "Status not paid"
+msgstr ""
+
+msgid "Error Ex01! Please refer to shop admin!"
+msgstr ""
+
+msgid "Payment completed with errors. please repeat"
+msgstr ""
+
+msgid "Check status of payment"
+msgstr ""
+
+msgid "Paid"
+msgstr ""
+
+msgid "not Paid"
+msgstr ""
+
+msgid "pay status"
+msgstr " "
+
+msgid "Refund (%s)"
+msgstr " "
+
+msgid "Refunds (%s)"
+msgstr " "
+
+msgid "Refund requested for sum $s"
+msgstr " "
+
+msgid "Refunding not accepted. Check sums"
+msgstr "Возврат невозможен. Проверьте сумму к возврату"
+
+msgid "Product price is not correct."
+msgstr "Неверная стоимость товара"
+
